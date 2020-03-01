@@ -11,7 +11,7 @@ Http like interface to work with AMQP protocol. Redelivery friendly. It is in pr
 
 ### Install
 ```
-$ npm i -S nestjs-rabbitmq
+$ npm i @coincatex/rabbitmq --save
 ```
 
 ### Configure

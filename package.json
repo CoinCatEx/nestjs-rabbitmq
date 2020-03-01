@@ -1,5 +1,5 @@
 {
-  "name": "rabbitmq",
+  "name": "@coincatex/rabbitmq",
   "version": "1.3.2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
